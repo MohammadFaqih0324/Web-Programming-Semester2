@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Contoh 03</title>
+    </head>
+<body>
+    <h1>
+        Tabel Data Siswa
+    </h1>
+    <table border=1 bgcolor=pink>
+    <tr>
+        <th>Nim</th>
+        <th>Nama</th>
+        <th>Alamat</th>
+        <th>Tempat, Tanggal Lahir</th>
+        <th>Jurusan</th>
+    </tr>
+    <tr>
+        <td>12220914</td>
+        <td>Faqih</td>
+        <td>Pejaten</td>
+        <td>Jakarta, 24 Maret 1999</td>
+        <td>Tehnik Informatika</td>
+    </tr>
+    <tr>
+        <td>12110001</td>
+        <td>Anita</td>
+        <td>Cengkareng</td>
+        <td>Jakarta, 20 Agustus 1998</td>
+        <td>Tehnik Informatika</td>
+    </tr>
+    <tr>
+        <td>12110002</td>
+        <td>Hayuni</td>
+        <td>Cawang</td>
+        <td>Jakarta, 03 Juli 2003</td>
+        <td>Tehnik Informatika</td>
+    </tr>
+</body>
+</html>
